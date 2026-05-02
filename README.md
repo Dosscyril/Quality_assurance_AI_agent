@@ -180,11 +180,6 @@ Displayed in UI
 
 ---
 
-## 🎯 Resume Highlight
-
-Built an AI-powered QA automation platform using FastAPI, Playwright, and LLMs that performs exploratory and goal-based testing on web applications with automated reporting and test case generation.
-
----
 
 ## 👨‍💻 Author
 
